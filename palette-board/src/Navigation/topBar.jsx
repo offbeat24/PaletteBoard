@@ -3,7 +3,7 @@ import './topBar.scss';
 function TopBar() {
   return (
     <header>
-      <h1>로고</h1>
+      <h1>Palette Board</h1>
       <nav>
         <span>테마</span>
         <span>설정</span>

@@ -1,0 +1,15 @@
+#F6EDCC
+#2D525B
+#FFFEFB
+#F4955E
+#8B9F9E
+#D7BC47
+
+#DCC8AC bedroom
+#A08469 kitchen
+#4DA6B1 bathroom
+#47413C dinning
+#BB8039 accent1
+#D58B52 accent2
+#A23B32 office
+#645F2C livingroom
