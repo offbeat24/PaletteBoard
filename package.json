@@ -1,0 +1,8 @@
+{
+  "name": "PalleteBoard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/offbeat24/PalleteBoard.git",
+  "author": "offbeat24 <77655547+offbeat24@users.noreply.github.com>",
+  "license": "MIT"
+}
