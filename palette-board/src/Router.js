@@ -3,7 +3,6 @@ import { BrowserRouter, Routes, Route } from'react-router-dom';
 import TopBar from '../src/components/Navigation/topBar';
 import Board from '../src/components/DashBoard/Board';
 function Router() {
-  console.log("route");
   return (
     <BrowserRouter>
       <Fragment>
